@@ -1,6 +1,6 @@
-<<<<<<< HEAD
-# Code Refactor Starter Code
-=======
 # HTML-CSS-Git-Challenge
-Code Refactoring Challenge #1
->>>>>>> 594fb8b22e34e4a980bccac5d7547a23826c9e20
+##Code Refactoring 
+
+![SCREENSHOT](https://github.com/jdwerz83/HTML-CSS-Git-Challenge/blob/main/Develop/assets/images/social-media-marketing.jpg)
+
+[Code](https://jdwerz83.github.io/HTML-CSS-Git-Challenge/) Refactored by Jonathan Werz
